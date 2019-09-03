@@ -1,0 +1,3 @@
+* Nano
+
+~docker run -it -v `pwd`:$HOME ugeek/nano nano ~/document_to_write~
